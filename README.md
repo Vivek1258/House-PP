@@ -1,6 +1,6 @@
 # House-PP
 
-The value of a house is based on what buyers in the market will pay for it. And it depends on the buyer's preferences and needs. The typical home value of homes in the United States is $263,351.( https://www.zillow.com/home-values/ )  There are various factors that can influence the price of a house for example location , Home size and usable space, Age and condition,  etc. One of the most important factors is nebourhood area. So I have tried to develop a model that can predict the price of a house given information about the area house is located in. 
+The value of a house is based on what buyers in the market will pay for it. And it depends on the buyer's preferences and needs. The typical home value of homes in the United States is $263,351.( https://www.zillow.com/home-values/ )  There are various factors that can influence the price of a house for example location , Home size and usable space, Age and condition,  etc. One of the most  important factors is nebourhood area. So I have tried to develop a model that can predict the price of a house given information about the area house is located in. 
 
 
 ### Data
@@ -26,6 +26,7 @@ The dataset contains the following Columns:
 - Address
   - Address for the house.
   
+
 
 ### Repository 
 
